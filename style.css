@@ -1,0 +1,327 @@
+body{
+    font-family: 'Lato', sans-serif;
+    margin:0;
+}
+.container{
+    width:100%;
+       
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+header{
+    border-bottom: 1px solid rgb(214, 213, 213);
+    margin:auto;
+    box-shadow: 0px 0px 5px rgb(221, 221, 221);
+}
+.header_1{
+    padding-top:20px;
+padding-bottom: 20px;
+
+}
+.header_1 img{
+width:130px;
+height:auto;
+
+padding-left: 120px;
+padding-right: 470px;
+
+}
+.header_nav a{
+    text-decoration: none;
+    margin:30px;
+    
+}
+.header_nav a:hover{
+    color:rgb(85, 182, 226);
+}
+.invest_1{
+    width:100%;
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 80px;
+}
+.invest_1 img{
+    width:30%;
+    padding-bottom: 10px;
+}
+.invest_1 h1{
+    font-size: 50px;
+    font-weight: bolder;
+  
+}
+.invest_1 p{
+    font-size: 25px;
+    padding-bottom: 20px;
+}
+.invest_btn a{
+    font-size: 22px;
+    border:1px snow dodgerblue;
+    padding:10px 25px 10px 25px;
+    background-color: dodgerblue;
+    text-decoration: none;
+    color: white;
+    border-radius:5px;
+}
+.invest_btn a:hover{
+    background-color:rgb(0, 0, 0);
+}
+.broker_0{
+    margin-left: 150px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.broker_1{
+    width:45%;
+    font-weight: bold;
+}
+.broker_2_0{
+    width:100%;
+
+}
+.broker_2{
+    width:50%;
+    font-weight: bold;
+    
+}
+.broker_1 img{
+    width:80%;
+}
+.broker_1 h2{
+    font-size: 35px;
+    font-weight: bolder;
+    padding-left: 25px;
+}
+.broker_1 p{
+    font-size: 18px;
+    padding-left: 25px;
+}
+.image img{
+    width:100%;
+}
+
+.ecosystem_0{
+    width:100%;
+    text-align: center;
+    padding-left: 120px;
+    padding-right: 120px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.ecosystem_0 h2{
+    font-size: 30px;
+    font-weight: bolder;
+}
+.ecosystem_0 p{
+    font-size: 20px;
+    font-weight:200;
+}
+.ecosystem_0 img{
+    width:100%;
+}
+.ecosystem_0 a{
+    text-decoration: none;
+    font-weight: bolder;
+    color: dodgerblue;
+}
+.ecosystem_0 a:hover{
+    color: rgb(41, 40, 40);
+}
+.price{
+    margin-top: 80px;
+    margin-bottom: 100px;
+    margin-left: 145px;
+}
+.price_0{
+    width:100%
+
+}
+.price_1{
+    width:35%;
+
+}
+.price_0 .price_11{
+    width:55%;
+
+}
+ .price_2{
+    width:100%;
+    padding-left: 70px;
+   
+}
+.price_2 .price_3{
+    width:45%;
+    border:1px solid rgb(148, 148, 148);
+    text-align: center;
+    border-radius: 5px;
+    padding:10px;
+
+}
+.price_1 h2{
+    font-size: 35px;
+    font-weight: bolder;
+}
+.price_11 h2{
+     font-size: 35px;
+    font-weight: bolder;
+}
+
+.price_1 p{
+    font-weight: 200;
+}
+ .price_2 h2{
+    font-size: 35px;
+    font-weight: bolder;
+}
+.price_1 a{
+    color: dodgerblue;
+    text-decoration: none;
+}
+.price_1 a:hover{
+    color: rgb(59, 59, 59);
+}
+.market{
+    margin-left: 130px;
+}
+.market_0{
+    width:100%;
+    margin-top: 30px;
+    margin-bottom:90px;
+}
+.market_1{
+    width:45%;
+    padding-left:80px;
+
+}
+.market_11{
+width:35%;
+}
+.market_11 img{
+    width:100%;
+    
+}
+.market_1 h2{
+font-size: 30px;
+font-weight: bolder;
+}
+.market_1 p{
+    font-size:20px;
+    font-weight: 100;
+}
+.market_1 a{
+    text-decoration: none;
+    color: dodgerblue;
+}
+.market_1 a:hover{
+    color:rgb(71, 71, 71);
+}
+
+.account{
+    width:100%;
+    margin-top: 30px;
+    margin-bottom: 100px;
+    
+}
+.account_0{
+    width:100%;
+    text-align: center;
+}
+.account_0 h2{
+    font-size:30px;
+    font-weight: bolder;
+}
+.account_0 p{
+    font-size: 18px;
+    font-weight: 200;
+    padding-bottom: 30px;
+}
+.account_0 a{
+    border:1px snow black;
+    padding:10px 30px 10px 30px;
+    background-color: rgb(15, 77, 139);
+    color:white;
+    font-size:20px;
+    font-weight:bold;
+    text-decoration: none;
+    border-radius:5px;
+}
+.account_0 a:hover{
+    background-color:black;
+}
+
+.footer_1{
+    width:100%;
+    background-color: rgb(229, 238, 238);
+    padding-top:20px;
+    padding-bottom: 20px;
+    padding-left: 130px;
+}
+.footer_11{
+    width:100%;
+}
+
+.footer_11_1{
+    width:22%;
+}
+.footer_11_1 img{
+    width:170px;
+    height:auto;
+    padding-top: 30px;
+
+}
+.footer_11_1 a{
+    display: block;
+    text-decoration: none;
+    color:rgb(71, 70, 70);
+    font-weight: 850;
+}
+.footer_11_1 a:hover{
+    color:rgb(187, 185, 185);
+}
+.footer_11_1 h5{
+    font-size:18px;
+    font-weight:bold;
+}
+.footer_11_1 p{
+    font-size:14px;
+}
+.footer_10{
+    width:100%;
+    background-color: rgb(229, 238, 238);
+}
+.footer_10_1{
+    width:85%;
+    font-size: 16px;
+
+padding-left:130px;
+    padding-right: 90px;
+    padding-bottom: 40px;
+}
+.footer_10_1 p{
+    font-size:13px;
+}
+.footer_10_1 a{
+    text-decoration: none;
+    color: dodgerblue;
+    font-size:13px;
+}
+.footer_10_1 a:hover{
+    color:rgb(10, 43, 77);
+}
+.last{
+    width:60%;
+    margin:auto;
+    padding-bottom:40px;
+}
+.last a{
+    margin:auto;
+    text-decoration: none;
+    font-weight: 400;
+    color:grey;
+    font-size: 13px;
+}
+.last a:hover{
+    color:dodgerblue;
+}
